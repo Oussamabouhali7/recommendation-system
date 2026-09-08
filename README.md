@@ -161,6 +161,8 @@ This project provided practical experience in:
 
 ![Main Menu](images/main-menu.png)
 
+![Product Database](images/product-database.png)
+
 ![Product Similarity Matrix](images/product-similarity.png)
 
 ![Recommendations](images/recommendations.png)
