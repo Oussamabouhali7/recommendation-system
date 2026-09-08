@@ -171,14 +171,11 @@ This project provided practical experience in:
 ### 4. Stemming
 ![Stemming](images/stemming.png)
 
-### 5. Product Similarity Matrix
-![Product Similarity Matrix](images/product-similarity.png)
+### 5. Product-Product Similarity Matrix
+![Product-Product Similarity Matrix](images/product-similarity.png)
 
-### 6. Recommendations
-![Recommendations](images/recommendations.png)
-
-### 7. Rating Prediction
-![Rating Prediction](images/rating-prediction.png)
+### 6. User-User Similarity Matrix
+![User-User Similarity Matrix](images/user-similarity.png)
 
 
 ## 📄 Project Documentation
