@@ -158,9 +158,7 @@ This project provided practical experience in:
 
 ## 📷 Project Screenshots
 
-You can add screenshots of the application here:
 
-```markdown
 ![Main Menu](images/main-menu.png)
 
 ![Product Similarity Matrix](images/product-similarity.png)
@@ -168,7 +166,7 @@ You can add screenshots of the application here:
 ![Recommendations](images/recommendations.png)
 
 ![Rating Prediction](images/rating-prediction.png)
-```
+
 
 ## 📄 Project Documentation
 
