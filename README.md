@@ -79,9 +79,9 @@ The recommendation pipeline can be summarized as follows:
               ┌──────────────────────┐
               │  Text Preprocessing  │
               │                      │
-              │  • Tokenization     │
-              │  • Stemming         │
-              │  • Stopwords        │
+              │  • Tokenization      │
+              │  • Stemming          │
+              │  • Stopwords         │
               └──────────┬───────────┘
                          │
                          ▼
