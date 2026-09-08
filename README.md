@@ -159,14 +159,25 @@ This project provided practical experience in:
 ## 📷 Project Screenshots
 
 
+### 1. Main Menu
 ![Main Menu](images/main-menu.png)
 
+### 2. Product Database
 ![Product Database](images/product-database.png)
 
+### 3. Tokenization
+![Tokenization](images/tokenization.png)
+
+### 4. Stemming
+![Stemming](images/stemming.png)
+
+### 5. Product Similarity Matrix
 ![Product Similarity Matrix](images/product-similarity.png)
 
+### 6. Recommendations
 ![Recommendations](images/recommendations.png)
 
+### 7. Rating Prediction
 ![Rating Prediction](images/rating-prediction.png)
 
 
