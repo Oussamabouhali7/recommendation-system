@@ -180,6 +180,16 @@ This project provided practical experience in:
 ### 7. User-User Similarity Matrix
 ![User-User Similarity Matrix](images/user-similarity.png)
 
+### Prediction Before
+![Prediction Before](images/prediction-before.png)
+
+The system identifies products that have not yet been rated by the user and prepares them for rating prediction.
+
+### Prediction After
+![Prediction After](images/prediction-after.png)
+
+The model predicts the ratings that the user is likely to give to the unrated products. The products with the highest predicted ratings are then recommended to the user.
+
 
 ## 📄 Project Documentation
 
