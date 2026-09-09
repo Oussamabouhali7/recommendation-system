@@ -162,19 +162,22 @@ This project provided practical experience in:
 ### 1. Main Menu
 ![Main Menu](images/main-menu.png)
 
-### 2. Product Database
+### 2. PostgreSQL Database Connection
+![PostgreSQL Database Connection](images/database-connection.png)
+
+### 3. Product Database
 ![Product Database](images/product-database.png)
 
-### 3. Tokenization
+### 4. Tokenization
 ![Tokenization](images/tokenization.png)
 
-### 4. Stemming
+### 5. Stemming
 ![Stemming](images/stemming.png)
 
-### 5. Product-Product Similarity Matrix
+### 6. Product-Product Similarity Matrix
 ![Product-Product Similarity Matrix](images/product-similarity.png)
 
-### 6. User-User Similarity Matrix
+### 7. User-User Similarity Matrix
 ![User-User Similarity Matrix](images/user-similarity.png)
 
 
